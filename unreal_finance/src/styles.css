@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+body{
+    background-color: #0D131A;;
+   /* background-color: #1D2833;; */
+}
+.bg-gray{
+background-color: #1D2833;;
+}
+
+.text-gray{
+    color:#1D2833; ;
+}
+.text-green{
+    color:#00c289; ;
+}
+
+.text-blue{
+    color: #8F66FF;
+}
+
+.text-1{
+font-size: 40px;
+font-weight: bold;
+}
+.text-2{
+   font-size: 18px; 
+   color: white;
+   font-weight: bold;
+}
+.text-3{
+   font-size: 15px;
+   color:#7A8A99;; 
+   font-weight: bold;
+}
