@@ -34,7 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <!-- ABOUT TASK -->
 
-1.i have done this task with the help of angular framework  and bootstrap library.
+<!-- 1.i have done this task with the help of angular framework  and bootstrap library.
 2.i have made it responsive .responsiveness from width 1200px
 3.could not import chart due to some issue in this task Apart from that all the task are done.
 
@@ -43,6 +43,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  2nd command(run the project)- ng serve --o (ex. PS C:\Users\Sayaly\Desktop\unreal_finance\unreal_finance\unreal_finance>ng serve --o )
 
  5.githuburl-(https://github.com/Sayali-dhamane/unreal_finance)
- 6.hosted link-
+ 6.hosted link- -->
 
  
