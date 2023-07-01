@@ -43,6 +43,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  2nd command(run the project)- ng serve --o (ex. PS C:\Users\Sayaly\Desktop\unreal_finance\unreal_finance>    ng serve --o )
 
  5.githuburl-(https://github.com/Sayali-dhamane/unreal_finance)
- 6.hosted link- -->
+ 6.hosted link-https://sayali-dhamane.github.io/unreal_finance/ -->
 
  
